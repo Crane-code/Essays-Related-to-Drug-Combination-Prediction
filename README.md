@@ -5,3 +5,6 @@
 - The document will be saved in the appropriate folder.
 
 ## Drug-drug interaction prediction（DDI）
+### Network-based
+### Chemical structure based
+### Hybrid method
