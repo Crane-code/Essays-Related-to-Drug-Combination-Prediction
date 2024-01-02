@@ -6,5 +6,10 @@
 
 ## Drug-drug interaction prediction（DDI）
 ### Network-based
+#### **MRCGNN**
+- dataset：
+  1)DDIMDL dataset -- 65types
+  2)Ryu's dataset --86types
+
 ### Chemical structure based
 ### Hybrid method
