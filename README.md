@@ -10,6 +10,10 @@
 - dataset：
   1)DDIMDL dataset -- 65types
   2)Ryu's dataset --86types
+- main method:
+  1)pretrain network:TrimNet + Set2set
+  1)backbone network：R-GCN
+  2)method : graph contrastive learning (GCL), Separate shuffle rows for nodes and edges
 
 ### Chemical structure based
 ### Hybrid method
